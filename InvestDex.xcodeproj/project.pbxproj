@@ -8,123 +8,33 @@
 
 /* Begin PBXBuildFile section */
 		10808E842D2DACCD0084A7E8 /* AudioPlayerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10808E832D2DACCD0084A7E8 /* AudioPlayerViewModel.swift */; };
-		1080912E2D2DAFD10084A7E8 /* SFX_CRY_1A.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090CB2D2DAFD10084A7E8 /* SFX_CRY_1A.wav */; };
-		1080912F2D2DAFD10084A7E8 /* SFX_CRY_1E.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090CF2D2DAFD10084A7E8 /* SFX_CRY_1E.wav */; };
-		108091302D2DAFD10084A7E8 /* SFX_SLOTS_NEW_SPIN.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091122D2DAFD10084A7E8 /* SFX_SLOTS_NEW_SPIN.wav */; };
 		108091312D2DAFD10084A7E8 /* SFX_COLLISION.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C22D2DAFD10084A7E8 /* SFX_COLLISION.wav */; };
-		108091322D2DAFD10084A7E8 /* SFX_SLOTS_STOP_WHEEL.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091142D2DAFD10084A7E8 /* SFX_SLOTS_STOP_WHEEL.wav */; };
 		108091332D2DAFD10084A7E8 /* SFX_CRY_25.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E82D2DAFD10084A7E8 /* SFX_CRY_25.wav */; };
-		108091342D2DAFD10084A7E8 /* SFX_ARROW_TILES.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090BE2D2DAFD10084A7E8 /* SFX_ARROW_TILES.wav */; };
 		108091352D2DAFD10084A7E8 /* SFX_SAVE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080910E2D2DAFD10084A7E8 /* SFX_SAVE.wav */; };
 		108091362D2DAFD10084A7E8 /* SFX_GET_ITEM_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F32D2DAFD10084A7E8 /* SFX_GET_ITEM_1.wav */; };
-		108091372D2DAFD10084A7E8 /* SFX_HEAL_UP.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F92D2DAFD10084A7E8 /* SFX_HEAL_UP.wav */; };
-		108091382D2DAFD10084A7E8 /* SFX_INTRO_CRASH.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090FB2D2DAFD10084A7E8 /* SFX_INTRO_CRASH.wav */; };
-		108091392D2DAFD10084A7E8 /* SFX_CRY_24.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E72D2DAFD10084A7E8 /* SFX_CRY_24.wav */; };
-		1080913A2D2DAFD10084A7E8 /* SFX_CRY_16.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090DF2D2DAFD10084A7E8 /* SFX_CRY_16.wav */; };
-		1080913B2D2DAFD10084A7E8 /* SFX_CRY_1F.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D02D2DAFD10084A7E8 /* SFX_CRY_1F.wav */; };
-		1080913C2D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091242D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_1.wav */; };
-		1080913D2D2DAFD10084A7E8 /* SFX_SNARE_4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091182D2DAFD10084A7E8 /* SFX_SNARE_4.wav */; };
-		1080913E2D2DAFD10084A7E8 /* SFX_CRY_1B.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090CC2D2DAFD10084A7E8 /* SFX_CRY_1B.wav */; };
-		1080913F2D2DAFD10084A7E8 /* SFX_CRY_03.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D22D2DAFD10084A7E8 /* SFX_CRY_03.wav */; };
 		108091402D2DAFD10084A7E8 /* SFX_START_MENU.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080911F2D2DAFD10084A7E8 /* SFX_START_MENU.wav */; };
 		108091412D2DAFD10084A7E8 /* SFX_INTRO_HIP.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090FC2D2DAFD10084A7E8 /* SFX_INTRO_HIP.wav */; };
-		108091422D2DAFD10084A7E8 /* SFX_CRY_11.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090DA2D2DAFD10084A7E8 /* SFX_CRY_11.wav */; };
-		108091432D2DAFD10084A7E8 /* SFX_SNARE_8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080911C2D2DAFD10084A7E8 /* SFX_SNARE_8.wav */; };
-		108091442D2DAFD10084A7E8 /* SFX_SNARE_9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080911D2D2DAFD10084A7E8 /* SFX_SNARE_9.wav */; };
-		108091452D2DAFD10084A7E8 /* SFX_CRY_20.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E32D2DAFD10084A7E8 /* SFX_CRY_20.wav */; };
 		108091462D2DAFD10084A7E8 /* SFX_CRY_0A.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C42D2DAFD10084A7E8 /* SFX_CRY_0A.wav */; };
-		108091472D2DAFD10084A7E8 /* SFX_MUTED_SNARE_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091042D2DAFD10084A7E8 /* SFX_MUTED_SNARE_2.wav */; };
-		108091482D2DAFD10084A7E8 /* SFX_BALL_POOF.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090BF2D2DAFD10084A7E8 /* SFX_BALL_POOF.wav */; };
-		108091492D2DAFD10084A7E8 /* SFX_TRADE_MACHINE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091272D2DAFD10084A7E8 /* SFX_TRADE_MACHINE.wav */; };
-		1080914A2D2DAFD10084A7E8 /* SFX_CRY_0E.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C82D2DAFD10084A7E8 /* SFX_CRY_0E.wav */; };
-		1080914B2D2DAFD10084A7E8 /* SFX_POISONED.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091072D2DAFD10084A7E8 /* SFX_POISONED.wav */; };
 		1080914C2D2DAFD10084A7E8 /* SFX_CRY_0C.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C62D2DAFD10084A7E8 /* SFX_CRY_0C.wav */; };
 		1080914D2D2DAFD10084A7E8 /* SFX_POKEDEX_RATING.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091082D2DAFD10084A7E8 /* SFX_POKEDEX_RATING.wav */; };
-		1080914E2D2DAFD10084A7E8 /* SFX_CYMBAL_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090EC2D2DAFD10084A7E8 /* SFX_CYMBAL_3.wav */; };
-		1080914F2D2DAFD10084A7E8 /* SFX_SS_ANNE_HORN.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080911E2D2DAFD10084A7E8 /* SFX_SS_ANNE_HORN.wav */; };
-		108091502D2DAFD10084A7E8 /* SFX_CRY_0D.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C72D2DAFD10084A7E8 /* SFX_CRY_0D.wav */; };
-		108091512D2DAFD10084A7E8 /* SFX_CRY_10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D92D2DAFD10084A7E8 /* SFX_CRY_10.wav */; };
 		108091522D2DAFD10084A7E8 /* SFX_GET_ITEM_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F42D2DAFD10084A7E8 /* SFX_GET_ITEM_2.wav */; };
-		108091532D2DAFD10084A7E8 /* SFX_CRY_00.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C32D2DAFD10084A7E8 /* SFX_CRY_00.wav */; };
-		108091542D2DAFD10084A7E8 /* SFX_MUTED_SNARE_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091052D2DAFD10084A7E8 /* SFX_MUTED_SNARE_3.wav */; };
-		108091552D2DAFD10084A7E8 /* SFX_CRY_1D.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090CE2D2DAFD10084A7E8 /* SFX_CRY_1D.wav */; };
-		108091562D2DAFD10084A7E8 /* SFX_CRY_09.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D82D2DAFD10084A7E8 /* SFX_CRY_09.wav */; };
-		108091572D2DAFD10084A7E8 /* SFX_GO_OUTSIDE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F72D2DAFD10084A7E8 /* SFX_GO_OUTSIDE.wav */; };
-		108091582D2DAFD10084A7E8 /* SFX_CRY_23.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E62D2DAFD10084A7E8 /* SFX_CRY_23.wav */; };
 		108091592D2DAFD10084A7E8 /* SFX_FAINT_FALL.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F02D2DAFD10084A7E8 /* SFX_FAINT_FALL.wav */; };
-		1080915A2D2DAFD10084A7E8 /* SFX_DEX_PAGE_ADDED.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090EE2D2DAFD10084A7E8 /* SFX_DEX_PAGE_ADDED.wav */; };
-		1080915B2D2DAFD10084A7E8 /* SFX_CRY_02.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D12D2DAFD10084A7E8 /* SFX_CRY_02.wav */; };
-		1080915C2D2DAFD10084A7E8 /* SFX_SNARE_5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091192D2DAFD10084A7E8 /* SFX_SNARE_5.wav */; };
-		1080915D2D2DAFD10084A7E8 /* SFX_SNARE_7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080911B2D2DAFD10084A7E8 /* SFX_SNARE_7.wav */; };
-		1080915E2D2DAFD10084A7E8 /* SFX_WITHDRAW_DEPOSIT.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080912D2D2DAFD10084A7E8 /* SFX_WITHDRAW_DEPOSIT.wav */; };
-		1080915F2D2DAFD10084A7E8 /* SFX_CYMBAL_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090EB2D2DAFD10084A7E8 /* SFX_CYMBAL_2.wav */; };
 		108091602D2DAFD10084A7E8 /* SFX_CRY_01.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090CA2D2DAFD10084A7E8 /* SFX_CRY_01.wav */; };
-		108091612D2DAFD10084A7E8 /* SFX_SWITCH.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091212D2DAFD10084A7E8 /* SFX_SWITCH.wav */; };
-		108091622D2DAFD10084A7E8 /* SFX_TRIANGLE_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080912A2D2DAFD10084A7E8 /* SFX_TRIANGLE_3.wav */; };
-		108091632D2DAFD10084A7E8 /* SFX_CRY_04.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D32D2DAFD10084A7E8 /* SFX_CRY_04.wav */; };
 		108091642D2DAFD10084A7E8 /* MUSIC_CAUGHT_MON.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C12D2DAFD10084A7E8 /* MUSIC_CAUGHT_MON.wav */; };
-		108091652D2DAFD10084A7E8 /* SFX_SNARE_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091162D2DAFD10084A7E8 /* SFX_SNARE_2.wav */; };
-		108091662D2DAFD10084A7E8 /* SFX_CRY_13.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090DC2D2DAFD10084A7E8 /* SFX_CRY_13.wav */; };
-		108091672D2DAFD10084A7E8 /* SFX_CRY_22.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E52D2DAFD10084A7E8 /* SFX_CRY_22.wav */; };
-		108091682D2DAFD10084A7E8 /* SFX_LEDGE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091012D2DAFD10084A7E8 /* SFX_LEDGE.wav */; };
-		108091692D2DAFD10084A7E8 /* SFX_SNARE_6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080911A2D2DAFD10084A7E8 /* SFX_SNARE_6.wav */; };
-		1080916A2D2DAFD10084A7E8 /* SFX_CRY_14.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090DD2D2DAFD10084A7E8 /* SFX_CRY_14.wav */; };
-		1080916B2D2DAFD10084A7E8 /* SFX_DENIED.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090ED2D2DAFD10084A7E8 /* SFX_DENIED.wav */; };
-		1080916C2D2DAFD10084A7E8 /* SFX_CUT.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E92D2DAFD10084A7E8 /* SFX_CUT.wav */; };
-		1080916D2D2DAFD10084A7E8 /* SFX_GO_INSIDE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F62D2DAFD10084A7E8 /* SFX_GO_INSIDE.wav */; };
-		1080916E2D2DAFD10084A7E8 /* SFX_CRY_0F.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C92D2DAFD10084A7E8 /* SFX_CRY_0F.wav */; };
 		1080916F2D2DAFD10084A7E8 /* SFX_SHOOTING_STAR.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080910F2D2DAFD10084A7E8 /* SFX_SHOOTING_STAR.wav */; };
 		108091702D2DAFD10084A7E8 /* SFX_59.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090BD2D2DAFD10084A7E8 /* SFX_59.wav */; };
-		108091712D2DAFD10084A7E8 /* SFX_SWAP.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091202D2DAFD10084A7E8 /* SFX_SWAP.wav */; };
-		108091722D2DAFD10084A7E8 /* SFX_CRY_19.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E22D2DAFD10084A7E8 /* SFX_CRY_19.wav */; };
-		108091732D2DAFD10084A7E8 /* SFX_CRY_06.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D52D2DAFD10084A7E8 /* SFX_CRY_06.wav */; };
-		108091742D2DAFD10084A7E8 /* SFX_CRY_05.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D42D2DAFD10084A7E8 /* SFX_CRY_05.wav */; };
-		108091752D2DAFD10084A7E8 /* SFX_CRY_18.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E12D2DAFD10084A7E8 /* SFX_CRY_18.wav */; };
-		108091762D2DAFD10084A7E8 /* SFX_MUTED_SNARE_4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091062D2DAFD10084A7E8 /* SFX_MUTED_SNARE_4.wav */; };
-		108091772D2DAFD10084A7E8 /* SFX_TRIANGLE_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091282D2DAFD10084A7E8 /* SFX_TRIANGLE_1.wav */; };
-		108091782D2DAFD10084A7E8 /* SFX_TRIANGLE_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091292D2DAFD10084A7E8 /* SFX_TRIANGLE_2.wav */; };
-		108091792D2DAFD10084A7E8 /* SFX_SNARE_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091172D2DAFD10084A7E8 /* SFX_SNARE_3.wav */; };
-		1080917A2D2DAFD10084A7E8 /* SFX_SILPH_SCOPE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091112D2DAFD10084A7E8 /* SFX_SILPH_SCOPE.wav */; };
-		1080917B2D2DAFD10084A7E8 /* SFX_TINK.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091262D2DAFD10084A7E8 /* SFX_TINK.wav */; };
-		1080917C2D2DAFD10084A7E8 /* SFX_CRY_15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090DE2D2DAFD10084A7E8 /* SFX_CRY_15.wav */; };
-		1080917D2D2DAFD10084A7E8 /* SFX_CYMBAL_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090EA2D2DAFD10084A7E8 /* SFX_CYMBAL_1.wav */; };
-		1080917E2D2DAFD10084A7E8 /* SFX_HEALING_MACHINE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090FA2D2DAFD10084A7E8 /* SFX_HEALING_MACHINE.wav */; };
-		1080917F2D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091252D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_2.wav */; };
-		108091802D2DAFD10084A7E8 /* SFX_MUTED_SNARE_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091032D2DAFD10084A7E8 /* SFX_MUTED_SNARE_1.wav */; };
-		108091812D2DAFD10084A7E8 /* SFX_CRY_08.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D72D2DAFD10084A7E8 /* SFX_CRY_08.wav */; };
 		108091822D2DAFD10084A7E8 /* SFX_PRESS_AB.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091092D2DAFD10084A7E8 /* SFX_PRESS_AB.wav */; };
 		108091832D2DAFD10084A7E8 /* SFX_TURN_ON_PC.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080912C2D2DAFD10084A7E8 /* SFX_TURN_ON_PC.wav */; };
-		108091842D2DAFD10084A7E8 /* SFX_SLOTS_REWARD.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091132D2DAFD10084A7E8 /* SFX_SLOTS_REWARD.wav */; };
-		108091852D2DAFD10084A7E8 /* SFX_PUSH_BOULDER.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080910B2D2DAFD10084A7E8 /* SFX_PUSH_BOULDER.wav */; };
-		108091862D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091222D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_1.wav */; };
-		108091872D2DAFD10084A7E8 /* SFX_ENTER_PC.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090EF2D2DAFD10084A7E8 /* SFX_ENTER_PC.wav */; };
-		108091882D2DAFD10084A7E8 /* SFX_INTRO_LUNGE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090FE2D2DAFD10084A7E8 /* SFX_INTRO_LUNGE.wav */; };
 		108091892D2DAFD10084A7E8 /* SFX_SHRINK.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091102D2DAFD10084A7E8 /* SFX_SHRINK.wav */; };
-		1080918A2D2DAFD10084A7E8 /* SFX_CRY_07.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090D62D2DAFD10084A7E8 /* SFX_CRY_07.wav */; };
-		1080918B2D2DAFD10084A7E8 /* SFX_CRY_1C.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090CD2D2DAFD10084A7E8 /* SFX_CRY_1C.wav */; };
 		1080918C2D2DAFD10084A7E8 /* SFX_PURCHASE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080910A2D2DAFD10084A7E8 /* SFX_PURCHASE.wav */; };
-		1080918D2D2DAFD10084A7E8 /* SFX_HEAL_AILMENT.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F82D2DAFD10084A7E8 /* SFX_HEAL_AILMENT.wav */; };
-		1080918E2D2DAFD10084A7E8 /* SFX_CRY_17.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E02D2DAFD10084A7E8 /* SFX_CRY_17.wav */; };
-		1080918F2D2DAFD10084A7E8 /* SFX_CRY_12.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090DB2D2DAFD10084A7E8 /* SFX_CRY_12.wav */; };
-		108091902D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091232D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_2.wav */; };
-		108091912D2DAFD10084A7E8 /* SFX_CRY_21.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090E42D2DAFD10084A7E8 /* SFX_CRY_21.wav */; };
-		108091922D2DAFD10084A7E8 /* SFX_RUN.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080910C2D2DAFD10084A7E8 /* SFX_RUN.wav */; };
-		108091932D2DAFD10084A7E8 /* SFX_SAFARI_ZONE_PA.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080910D2D2DAFD10084A7E8 /* SFX_SAFARI_ZONE_PA.wav */; };
 		108091942D2DAFD10084A7E8 /* SFX_FLY.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F22D2DAFD10084A7E8 /* SFX_FLY.wav */; };
-		108091952D2DAFD10084A7E8 /* SFX_INTRO_WHOOSH.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091002D2DAFD10084A7E8 /* SFX_INTRO_WHOOSH.wav */; };
 		108091962D2DAFD10084A7E8 /* SFX_LEVEL_UP.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091022D2DAFD10084A7E8 /* SFX_LEVEL_UP.wav */; };
-		108091972D2DAFD10084A7E8 /* SFX_INTRO_HOP.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090FD2D2DAFD10084A7E8 /* SFX_INTRO_HOP.wav */; };
 		108091982D2DAFD10084A7E8 /* MUSIC_TURN_OFF_PC.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080912B2D2DAFD10084A7E8 /* MUSIC_TURN_OFF_PC.wav */; };
 		108091992D2DAFD10084A7E8 /* SFX_FAINT_THUD.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F12D2DAFD10084A7E8 /* SFX_FAINT_THUD.wav */; };
 		1080919A2D2DAFD10084A7E8 /* SFX_CRY_0B.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C52D2DAFD10084A7E8 /* SFX_CRY_0B.wav */; };
-		1080919B2D2DAFD10084A7E8 /* SFX_INTRO_RAISE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090FF2D2DAFD10084A7E8 /* SFX_INTRO_RAISE.wav */; };
-		1080919C2D2DAFD10084A7E8 /* SFX_SNARE_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091152D2DAFD10084A7E8 /* SFX_SNARE_1.wav */; };
-		1080919D2D2DAFD10084A7E8 /* SFX_BALL_TOSS.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090C02D2DAFD10084A7E8 /* SFX_BALL_TOSS.wav */; };
 		1080919E2D2DAFD10084A7E8 /* MUSIC_GET_KEY_ITEM.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108090F52D2DAFD10084A7E8 /* MUSIC_GET_KEY_ITEM.wav */; };
 		108091A02D2DB4B20084A7E8 /* MUSIC_VICTORY.wav in Resources */ = {isa = PBXBuildFile; fileRef = 1080919F2D2DB4B20084A7E8 /* MUSIC_VICTORY.wav */; };
 		108091A22D2DB5890084A7E8 /* MUSIC_PROF_OAK.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091A12D2DB5890084A7E8 /* MUSIC_PROF_OAK.wav */; };
-		108091A42D2DB9AE0084A7E8 /* .wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091A32D2DB9AE0084A7E8 /* .wav */; };
-		108091A62D2DB9B30084A7E8 /* File.txt in Resources */ = {isa = PBXBuildFile; fileRef = 108091A52D2DB9B30084A7E8 /* File.txt */; };
 		108091A82D2DB9C30084A7E8 /* MUSIC_BATTLE.wav in Resources */ = {isa = PBXBuildFile; fileRef = 108091A72D2DB9C30084A7E8 /* MUSIC_BATTLE.wav */; };
 		900FD60627DD3FEE006F9C3C /* BattleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900FD60527DD3FEE006F9C3C /* BattleView.swift */; };
 		900FD60827DD41CA006F9C3C /* BattleIntro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900FD60727DD41CA006F9C3C /* BattleIntro.swift */; };
@@ -190,122 +100,32 @@
 		0F1205C979B2E6FF326B1C48 /* Pods-partymon.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-partymon.release.xcconfig"; path = "Target Support Files/Pods-partymon/Pods-partymon.release.xcconfig"; sourceTree = "<group>"; };
 		10808E832D2DACCD0084A7E8 /* AudioPlayerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerViewModel.swift; sourceTree = "<group>"; };
 		108090BD2D2DAFD10084A7E8 /* SFX_59.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_59.wav; sourceTree = "<group>"; };
-		108090BE2D2DAFD10084A7E8 /* SFX_ARROW_TILES.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_ARROW_TILES.wav; sourceTree = "<group>"; };
-		108090BF2D2DAFD10084A7E8 /* SFX_BALL_POOF.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_BALL_POOF.wav; sourceTree = "<group>"; };
-		108090C02D2DAFD10084A7E8 /* SFX_BALL_TOSS.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_BALL_TOSS.wav; sourceTree = "<group>"; };
 		108090C12D2DAFD10084A7E8 /* MUSIC_CAUGHT_MON.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MUSIC_CAUGHT_MON.wav; sourceTree = "<group>"; };
 		108090C22D2DAFD10084A7E8 /* SFX_COLLISION.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_COLLISION.wav; sourceTree = "<group>"; };
-		108090C32D2DAFD10084A7E8 /* SFX_CRY_00.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_00.wav; sourceTree = "<group>"; };
 		108090C42D2DAFD10084A7E8 /* SFX_CRY_0A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_0A.wav; sourceTree = "<group>"; };
 		108090C52D2DAFD10084A7E8 /* SFX_CRY_0B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_0B.wav; sourceTree = "<group>"; };
 		108090C62D2DAFD10084A7E8 /* SFX_CRY_0C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_0C.wav; sourceTree = "<group>"; };
-		108090C72D2DAFD10084A7E8 /* SFX_CRY_0D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_0D.wav; sourceTree = "<group>"; };
-		108090C82D2DAFD10084A7E8 /* SFX_CRY_0E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_0E.wav; sourceTree = "<group>"; };
-		108090C92D2DAFD10084A7E8 /* SFX_CRY_0F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_0F.wav; sourceTree = "<group>"; };
 		108090CA2D2DAFD10084A7E8 /* SFX_CRY_01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_01.wav; sourceTree = "<group>"; };
-		108090CB2D2DAFD10084A7E8 /* SFX_CRY_1A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_1A.wav; sourceTree = "<group>"; };
-		108090CC2D2DAFD10084A7E8 /* SFX_CRY_1B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_1B.wav; sourceTree = "<group>"; };
-		108090CD2D2DAFD10084A7E8 /* SFX_CRY_1C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_1C.wav; sourceTree = "<group>"; };
-		108090CE2D2DAFD10084A7E8 /* SFX_CRY_1D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_1D.wav; sourceTree = "<group>"; };
-		108090CF2D2DAFD10084A7E8 /* SFX_CRY_1E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_1E.wav; sourceTree = "<group>"; };
-		108090D02D2DAFD10084A7E8 /* SFX_CRY_1F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_1F.wav; sourceTree = "<group>"; };
-		108090D12D2DAFD10084A7E8 /* SFX_CRY_02.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_02.wav; sourceTree = "<group>"; };
-		108090D22D2DAFD10084A7E8 /* SFX_CRY_03.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_03.wav; sourceTree = "<group>"; };
-		108090D32D2DAFD10084A7E8 /* SFX_CRY_04.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_04.wav; sourceTree = "<group>"; };
-		108090D42D2DAFD10084A7E8 /* SFX_CRY_05.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_05.wav; sourceTree = "<group>"; };
-		108090D52D2DAFD10084A7E8 /* SFX_CRY_06.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_06.wav; sourceTree = "<group>"; };
-		108090D62D2DAFD10084A7E8 /* SFX_CRY_07.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_07.wav; sourceTree = "<group>"; };
-		108090D72D2DAFD10084A7E8 /* SFX_CRY_08.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_08.wav; sourceTree = "<group>"; };
-		108090D82D2DAFD10084A7E8 /* SFX_CRY_09.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_09.wav; sourceTree = "<group>"; };
-		108090D92D2DAFD10084A7E8 /* SFX_CRY_10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_10.wav; sourceTree = "<group>"; };
-		108090DA2D2DAFD10084A7E8 /* SFX_CRY_11.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_11.wav; sourceTree = "<group>"; };
-		108090DB2D2DAFD10084A7E8 /* SFX_CRY_12.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_12.wav; sourceTree = "<group>"; };
-		108090DC2D2DAFD10084A7E8 /* SFX_CRY_13.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_13.wav; sourceTree = "<group>"; };
-		108090DD2D2DAFD10084A7E8 /* SFX_CRY_14.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_14.wav; sourceTree = "<group>"; };
-		108090DE2D2DAFD10084A7E8 /* SFX_CRY_15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_15.wav; sourceTree = "<group>"; };
-		108090DF2D2DAFD10084A7E8 /* SFX_CRY_16.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_16.wav; sourceTree = "<group>"; };
-		108090E02D2DAFD10084A7E8 /* SFX_CRY_17.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_17.wav; sourceTree = "<group>"; };
-		108090E12D2DAFD10084A7E8 /* SFX_CRY_18.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_18.wav; sourceTree = "<group>"; };
-		108090E22D2DAFD10084A7E8 /* SFX_CRY_19.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_19.wav; sourceTree = "<group>"; };
-		108090E32D2DAFD10084A7E8 /* SFX_CRY_20.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_20.wav; sourceTree = "<group>"; };
-		108090E42D2DAFD10084A7E8 /* SFX_CRY_21.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_21.wav; sourceTree = "<group>"; };
-		108090E52D2DAFD10084A7E8 /* SFX_CRY_22.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_22.wav; sourceTree = "<group>"; };
-		108090E62D2DAFD10084A7E8 /* SFX_CRY_23.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_23.wav; sourceTree = "<group>"; };
-		108090E72D2DAFD10084A7E8 /* SFX_CRY_24.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_24.wav; sourceTree = "<group>"; };
 		108090E82D2DAFD10084A7E8 /* SFX_CRY_25.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CRY_25.wav; sourceTree = "<group>"; };
-		108090E92D2DAFD10084A7E8 /* SFX_CUT.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CUT.wav; sourceTree = "<group>"; };
-		108090EA2D2DAFD10084A7E8 /* SFX_CYMBAL_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CYMBAL_1.wav; sourceTree = "<group>"; };
-		108090EB2D2DAFD10084A7E8 /* SFX_CYMBAL_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CYMBAL_2.wav; sourceTree = "<group>"; };
-		108090EC2D2DAFD10084A7E8 /* SFX_CYMBAL_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_CYMBAL_3.wav; sourceTree = "<group>"; };
-		108090ED2D2DAFD10084A7E8 /* SFX_DENIED.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_DENIED.wav; sourceTree = "<group>"; };
-		108090EE2D2DAFD10084A7E8 /* SFX_DEX_PAGE_ADDED.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_DEX_PAGE_ADDED.wav; sourceTree = "<group>"; };
-		108090EF2D2DAFD10084A7E8 /* SFX_ENTER_PC.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_ENTER_PC.wav; sourceTree = "<group>"; };
 		108090F02D2DAFD10084A7E8 /* SFX_FAINT_FALL.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_FAINT_FALL.wav; sourceTree = "<group>"; };
 		108090F12D2DAFD10084A7E8 /* SFX_FAINT_THUD.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_FAINT_THUD.wav; sourceTree = "<group>"; };
 		108090F22D2DAFD10084A7E8 /* SFX_FLY.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_FLY.wav; sourceTree = "<group>"; };
 		108090F32D2DAFD10084A7E8 /* SFX_GET_ITEM_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_GET_ITEM_1.wav; sourceTree = "<group>"; };
 		108090F42D2DAFD10084A7E8 /* SFX_GET_ITEM_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_GET_ITEM_2.wav; sourceTree = "<group>"; };
 		108090F52D2DAFD10084A7E8 /* MUSIC_GET_KEY_ITEM.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MUSIC_GET_KEY_ITEM.wav; sourceTree = "<group>"; };
-		108090F62D2DAFD10084A7E8 /* SFX_GO_INSIDE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_GO_INSIDE.wav; sourceTree = "<group>"; };
-		108090F72D2DAFD10084A7E8 /* SFX_GO_OUTSIDE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_GO_OUTSIDE.wav; sourceTree = "<group>"; };
-		108090F82D2DAFD10084A7E8 /* SFX_HEAL_AILMENT.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_HEAL_AILMENT.wav; sourceTree = "<group>"; };
-		108090F92D2DAFD10084A7E8 /* SFX_HEAL_UP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_HEAL_UP.wav; sourceTree = "<group>"; };
-		108090FA2D2DAFD10084A7E8 /* SFX_HEALING_MACHINE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_HEALING_MACHINE.wav; sourceTree = "<group>"; };
-		108090FB2D2DAFD10084A7E8 /* SFX_INTRO_CRASH.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_INTRO_CRASH.wav; sourceTree = "<group>"; };
 		108090FC2D2DAFD10084A7E8 /* SFX_INTRO_HIP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_INTRO_HIP.wav; sourceTree = "<group>"; };
-		108090FD2D2DAFD10084A7E8 /* SFX_INTRO_HOP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_INTRO_HOP.wav; sourceTree = "<group>"; };
-		108090FE2D2DAFD10084A7E8 /* SFX_INTRO_LUNGE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_INTRO_LUNGE.wav; sourceTree = "<group>"; };
-		108090FF2D2DAFD10084A7E8 /* SFX_INTRO_RAISE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_INTRO_RAISE.wav; sourceTree = "<group>"; };
-		108091002D2DAFD10084A7E8 /* SFX_INTRO_WHOOSH.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_INTRO_WHOOSH.wav; sourceTree = "<group>"; };
-		108091012D2DAFD10084A7E8 /* SFX_LEDGE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_LEDGE.wav; sourceTree = "<group>"; };
 		108091022D2DAFD10084A7E8 /* SFX_LEVEL_UP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_LEVEL_UP.wav; sourceTree = "<group>"; };
-		108091032D2DAFD10084A7E8 /* SFX_MUTED_SNARE_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_MUTED_SNARE_1.wav; sourceTree = "<group>"; };
-		108091042D2DAFD10084A7E8 /* SFX_MUTED_SNARE_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_MUTED_SNARE_2.wav; sourceTree = "<group>"; };
-		108091052D2DAFD10084A7E8 /* SFX_MUTED_SNARE_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_MUTED_SNARE_3.wav; sourceTree = "<group>"; };
-		108091062D2DAFD10084A7E8 /* SFX_MUTED_SNARE_4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_MUTED_SNARE_4.wav; sourceTree = "<group>"; };
-		108091072D2DAFD10084A7E8 /* SFX_POISONED.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_POISONED.wav; sourceTree = "<group>"; };
 		108091082D2DAFD10084A7E8 /* SFX_POKEDEX_RATING.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_POKEDEX_RATING.wav; sourceTree = "<group>"; };
 		108091092D2DAFD10084A7E8 /* SFX_PRESS_AB.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_PRESS_AB.wav; sourceTree = "<group>"; };
 		1080910A2D2DAFD10084A7E8 /* SFX_PURCHASE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_PURCHASE.wav; sourceTree = "<group>"; };
-		1080910B2D2DAFD10084A7E8 /* SFX_PUSH_BOULDER.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_PUSH_BOULDER.wav; sourceTree = "<group>"; };
-		1080910C2D2DAFD10084A7E8 /* SFX_RUN.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_RUN.wav; sourceTree = "<group>"; };
-		1080910D2D2DAFD10084A7E8 /* SFX_SAFARI_ZONE_PA.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SAFARI_ZONE_PA.wav; sourceTree = "<group>"; };
 		1080910E2D2DAFD10084A7E8 /* SFX_SAVE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SAVE.wav; sourceTree = "<group>"; };
 		1080910F2D2DAFD10084A7E8 /* SFX_SHOOTING_STAR.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SHOOTING_STAR.wav; sourceTree = "<group>"; };
 		108091102D2DAFD10084A7E8 /* SFX_SHRINK.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SHRINK.wav; sourceTree = "<group>"; };
-		108091112D2DAFD10084A7E8 /* SFX_SILPH_SCOPE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SILPH_SCOPE.wav; sourceTree = "<group>"; };
-		108091122D2DAFD10084A7E8 /* SFX_SLOTS_NEW_SPIN.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SLOTS_NEW_SPIN.wav; sourceTree = "<group>"; };
-		108091132D2DAFD10084A7E8 /* SFX_SLOTS_REWARD.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SLOTS_REWARD.wav; sourceTree = "<group>"; };
-		108091142D2DAFD10084A7E8 /* SFX_SLOTS_STOP_WHEEL.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SLOTS_STOP_WHEEL.wav; sourceTree = "<group>"; };
-		108091152D2DAFD10084A7E8 /* SFX_SNARE_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_1.wav; sourceTree = "<group>"; };
-		108091162D2DAFD10084A7E8 /* SFX_SNARE_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_2.wav; sourceTree = "<group>"; };
-		108091172D2DAFD10084A7E8 /* SFX_SNARE_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_3.wav; sourceTree = "<group>"; };
-		108091182D2DAFD10084A7E8 /* SFX_SNARE_4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_4.wav; sourceTree = "<group>"; };
-		108091192D2DAFD10084A7E8 /* SFX_SNARE_5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_5.wav; sourceTree = "<group>"; };
-		1080911A2D2DAFD10084A7E8 /* SFX_SNARE_6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_6.wav; sourceTree = "<group>"; };
-		1080911B2D2DAFD10084A7E8 /* SFX_SNARE_7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_7.wav; sourceTree = "<group>"; };
-		1080911C2D2DAFD10084A7E8 /* SFX_SNARE_8.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_8.wav; sourceTree = "<group>"; };
-		1080911D2D2DAFD10084A7E8 /* SFX_SNARE_9.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SNARE_9.wav; sourceTree = "<group>"; };
-		1080911E2D2DAFD10084A7E8 /* SFX_SS_ANNE_HORN.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SS_ANNE_HORN.wav; sourceTree = "<group>"; };
 		1080911F2D2DAFD10084A7E8 /* SFX_START_MENU.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_START_MENU.wav; sourceTree = "<group>"; };
-		108091202D2DAFD10084A7E8 /* SFX_SWAP.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SWAP.wav; sourceTree = "<group>"; };
-		108091212D2DAFD10084A7E8 /* SFX_SWITCH.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_SWITCH.wav; sourceTree = "<group>"; };
-		108091222D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TELEPORT_ENTER_1.wav; sourceTree = "<group>"; };
-		108091232D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TELEPORT_ENTER_2.wav; sourceTree = "<group>"; };
-		108091242D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TELEPORT_EXIT_1.wav; sourceTree = "<group>"; };
-		108091252D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TELEPORT_EXIT_2.wav; sourceTree = "<group>"; };
-		108091262D2DAFD10084A7E8 /* SFX_TINK.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TINK.wav; sourceTree = "<group>"; };
-		108091272D2DAFD10084A7E8 /* SFX_TRADE_MACHINE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TRADE_MACHINE.wav; sourceTree = "<group>"; };
-		108091282D2DAFD10084A7E8 /* SFX_TRIANGLE_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TRIANGLE_1.wav; sourceTree = "<group>"; };
-		108091292D2DAFD10084A7E8 /* SFX_TRIANGLE_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TRIANGLE_2.wav; sourceTree = "<group>"; };
-		1080912A2D2DAFD10084A7E8 /* SFX_TRIANGLE_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TRIANGLE_3.wav; sourceTree = "<group>"; };
 		1080912B2D2DAFD10084A7E8 /* MUSIC_TURN_OFF_PC.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MUSIC_TURN_OFF_PC.wav; sourceTree = "<group>"; };
 		1080912C2D2DAFD10084A7E8 /* SFX_TURN_ON_PC.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_TURN_ON_PC.wav; sourceTree = "<group>"; };
-		1080912D2D2DAFD10084A7E8 /* SFX_WITHDRAW_DEPOSIT.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SFX_WITHDRAW_DEPOSIT.wav; sourceTree = "<group>"; };
 		1080919F2D2DB4B20084A7E8 /* MUSIC_VICTORY.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MUSIC_VICTORY.wav; sourceTree = "<group>"; };
 		108091A12D2DB5890084A7E8 /* MUSIC_PROF_OAK.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MUSIC_PROF_OAK.wav; sourceTree = "<group>"; };
-		108091A32D2DB9AE0084A7E8 /* .wav */ = {isa = PBXFileReference; lastKnownFileType = file; path = .wav; sourceTree = "<group>"; };
-		108091A52D2DB9B30084A7E8 /* File.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = File.txt; sourceTree = "<group>"; };
 		108091A72D2DB9C30084A7E8 /* MUSIC_BATTLE.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MUSIC_BATTLE.wav; sourceTree = "<group>"; };
 		5641D52A75697D8F08D2E3FF /* Pods_partymon.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_partymon.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		82F0E01C830A4AE5CD7F3CFB /* Pods-partymon.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-partymon.debug.xcconfig"; path = "Target Support Files/Pods-partymon/Pods-partymon.debug.xcconfig"; sourceTree = "<group>"; };
@@ -386,120 +206,30 @@
 			isa = PBXGroup;
 			children = (
 				108090BD2D2DAFD10084A7E8 /* SFX_59.wav */,
-				108090BE2D2DAFD10084A7E8 /* SFX_ARROW_TILES.wav */,
-				108090BF2D2DAFD10084A7E8 /* SFX_BALL_POOF.wav */,
-				108090C02D2DAFD10084A7E8 /* SFX_BALL_TOSS.wav */,
 				108090C12D2DAFD10084A7E8 /* MUSIC_CAUGHT_MON.wav */,
 				108090C22D2DAFD10084A7E8 /* SFX_COLLISION.wav */,
-				108090C32D2DAFD10084A7E8 /* SFX_CRY_00.wav */,
 				108090C42D2DAFD10084A7E8 /* SFX_CRY_0A.wav */,
 				108090C52D2DAFD10084A7E8 /* SFX_CRY_0B.wav */,
 				108090C62D2DAFD10084A7E8 /* SFX_CRY_0C.wav */,
-				108090C72D2DAFD10084A7E8 /* SFX_CRY_0D.wav */,
-				108090C82D2DAFD10084A7E8 /* SFX_CRY_0E.wav */,
-				108090C92D2DAFD10084A7E8 /* SFX_CRY_0F.wav */,
 				108090CA2D2DAFD10084A7E8 /* SFX_CRY_01.wav */,
-				108090CB2D2DAFD10084A7E8 /* SFX_CRY_1A.wav */,
-				108090CC2D2DAFD10084A7E8 /* SFX_CRY_1B.wav */,
-				108090CD2D2DAFD10084A7E8 /* SFX_CRY_1C.wav */,
-				108090CE2D2DAFD10084A7E8 /* SFX_CRY_1D.wav */,
-				108090CF2D2DAFD10084A7E8 /* SFX_CRY_1E.wav */,
-				108090D02D2DAFD10084A7E8 /* SFX_CRY_1F.wav */,
-				108090D12D2DAFD10084A7E8 /* SFX_CRY_02.wav */,
-				108090D22D2DAFD10084A7E8 /* SFX_CRY_03.wav */,
-				108090D32D2DAFD10084A7E8 /* SFX_CRY_04.wav */,
-				108090D42D2DAFD10084A7E8 /* SFX_CRY_05.wav */,
-				108090D52D2DAFD10084A7E8 /* SFX_CRY_06.wav */,
-				108090D62D2DAFD10084A7E8 /* SFX_CRY_07.wav */,
-				108090D72D2DAFD10084A7E8 /* SFX_CRY_08.wav */,
-				108090D82D2DAFD10084A7E8 /* SFX_CRY_09.wav */,
-				108090D92D2DAFD10084A7E8 /* SFX_CRY_10.wav */,
-				108090DA2D2DAFD10084A7E8 /* SFX_CRY_11.wav */,
-				108090DB2D2DAFD10084A7E8 /* SFX_CRY_12.wav */,
-				108090DC2D2DAFD10084A7E8 /* SFX_CRY_13.wav */,
-				108090DD2D2DAFD10084A7E8 /* SFX_CRY_14.wav */,
-				108090DE2D2DAFD10084A7E8 /* SFX_CRY_15.wav */,
-				108090DF2D2DAFD10084A7E8 /* SFX_CRY_16.wav */,
-				108090E02D2DAFD10084A7E8 /* SFX_CRY_17.wav */,
-				108090E12D2DAFD10084A7E8 /* SFX_CRY_18.wav */,
-				108090E22D2DAFD10084A7E8 /* SFX_CRY_19.wav */,
-				108091A32D2DB9AE0084A7E8 /* .wav */,
-				108090E32D2DAFD10084A7E8 /* SFX_CRY_20.wav */,
-				108090E42D2DAFD10084A7E8 /* SFX_CRY_21.wav */,
-				108090E52D2DAFD10084A7E8 /* SFX_CRY_22.wav */,
-				108090E62D2DAFD10084A7E8 /* SFX_CRY_23.wav */,
-				108090E72D2DAFD10084A7E8 /* SFX_CRY_24.wav */,
 				108090E82D2DAFD10084A7E8 /* SFX_CRY_25.wav */,
-				108090E92D2DAFD10084A7E8 /* SFX_CUT.wav */,
-				108090EA2D2DAFD10084A7E8 /* SFX_CYMBAL_1.wav */,
-				108090EB2D2DAFD10084A7E8 /* SFX_CYMBAL_2.wav */,
-				108090EC2D2DAFD10084A7E8 /* SFX_CYMBAL_3.wav */,
-				108090ED2D2DAFD10084A7E8 /* SFX_DENIED.wav */,
-				108090EE2D2DAFD10084A7E8 /* SFX_DEX_PAGE_ADDED.wav */,
-				108090EF2D2DAFD10084A7E8 /* SFX_ENTER_PC.wav */,
 				108090F02D2DAFD10084A7E8 /* SFX_FAINT_FALL.wav */,
 				108090F12D2DAFD10084A7E8 /* SFX_FAINT_THUD.wav */,
 				108090F22D2DAFD10084A7E8 /* SFX_FLY.wav */,
 				108090F32D2DAFD10084A7E8 /* SFX_GET_ITEM_1.wav */,
 				108090F42D2DAFD10084A7E8 /* SFX_GET_ITEM_2.wav */,
 				108090F52D2DAFD10084A7E8 /* MUSIC_GET_KEY_ITEM.wav */,
-				108090F62D2DAFD10084A7E8 /* SFX_GO_INSIDE.wav */,
-				108090F72D2DAFD10084A7E8 /* SFX_GO_OUTSIDE.wav */,
-				108090F82D2DAFD10084A7E8 /* SFX_HEAL_AILMENT.wav */,
-				108090F92D2DAFD10084A7E8 /* SFX_HEAL_UP.wav */,
-				108090FA2D2DAFD10084A7E8 /* SFX_HEALING_MACHINE.wav */,
-				108090FB2D2DAFD10084A7E8 /* SFX_INTRO_CRASH.wav */,
 				108090FC2D2DAFD10084A7E8 /* SFX_INTRO_HIP.wav */,
-				108090FD2D2DAFD10084A7E8 /* SFX_INTRO_HOP.wav */,
-				108090FE2D2DAFD10084A7E8 /* SFX_INTRO_LUNGE.wav */,
-				108090FF2D2DAFD10084A7E8 /* SFX_INTRO_RAISE.wav */,
-				108091002D2DAFD10084A7E8 /* SFX_INTRO_WHOOSH.wav */,
-				108091012D2DAFD10084A7E8 /* SFX_LEDGE.wav */,
 				108091022D2DAFD10084A7E8 /* SFX_LEVEL_UP.wav */,
-				108091032D2DAFD10084A7E8 /* SFX_MUTED_SNARE_1.wav */,
-				108091042D2DAFD10084A7E8 /* SFX_MUTED_SNARE_2.wav */,
-				108091052D2DAFD10084A7E8 /* SFX_MUTED_SNARE_3.wav */,
-				108091A52D2DB9B30084A7E8 /* File.txt */,
-				108091062D2DAFD10084A7E8 /* SFX_MUTED_SNARE_4.wav */,
-				108091072D2DAFD10084A7E8 /* SFX_POISONED.wav */,
 				108091082D2DAFD10084A7E8 /* SFX_POKEDEX_RATING.wav */,
 				108091092D2DAFD10084A7E8 /* SFX_PRESS_AB.wav */,
 				1080910A2D2DAFD10084A7E8 /* SFX_PURCHASE.wav */,
-				1080910B2D2DAFD10084A7E8 /* SFX_PUSH_BOULDER.wav */,
-				1080910C2D2DAFD10084A7E8 /* SFX_RUN.wav */,
-				1080910D2D2DAFD10084A7E8 /* SFX_SAFARI_ZONE_PA.wav */,
 				1080910E2D2DAFD10084A7E8 /* SFX_SAVE.wav */,
 				1080910F2D2DAFD10084A7E8 /* SFX_SHOOTING_STAR.wav */,
 				108091102D2DAFD10084A7E8 /* SFX_SHRINK.wav */,
-				108091112D2DAFD10084A7E8 /* SFX_SILPH_SCOPE.wav */,
-				108091122D2DAFD10084A7E8 /* SFX_SLOTS_NEW_SPIN.wav */,
-				108091132D2DAFD10084A7E8 /* SFX_SLOTS_REWARD.wav */,
-				108091142D2DAFD10084A7E8 /* SFX_SLOTS_STOP_WHEEL.wav */,
-				108091152D2DAFD10084A7E8 /* SFX_SNARE_1.wav */,
-				108091162D2DAFD10084A7E8 /* SFX_SNARE_2.wav */,
-				108091172D2DAFD10084A7E8 /* SFX_SNARE_3.wav */,
-				108091182D2DAFD10084A7E8 /* SFX_SNARE_4.wav */,
-				108091192D2DAFD10084A7E8 /* SFX_SNARE_5.wav */,
-				1080911A2D2DAFD10084A7E8 /* SFX_SNARE_6.wav */,
-				1080911B2D2DAFD10084A7E8 /* SFX_SNARE_7.wav */,
-				1080911C2D2DAFD10084A7E8 /* SFX_SNARE_8.wav */,
-				1080911D2D2DAFD10084A7E8 /* SFX_SNARE_9.wav */,
-				1080911E2D2DAFD10084A7E8 /* SFX_SS_ANNE_HORN.wav */,
 				1080911F2D2DAFD10084A7E8 /* SFX_START_MENU.wav */,
-				108091202D2DAFD10084A7E8 /* SFX_SWAP.wav */,
-				108091212D2DAFD10084A7E8 /* SFX_SWITCH.wav */,
-				108091222D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_1.wav */,
-				108091232D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_2.wav */,
-				108091242D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_1.wav */,
-				108091252D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_2.wav */,
-				108091262D2DAFD10084A7E8 /* SFX_TINK.wav */,
-				108091272D2DAFD10084A7E8 /* SFX_TRADE_MACHINE.wav */,
-				108091282D2DAFD10084A7E8 /* SFX_TRIANGLE_1.wav */,
-				108091292D2DAFD10084A7E8 /* SFX_TRIANGLE_2.wav */,
-				1080912A2D2DAFD10084A7E8 /* SFX_TRIANGLE_3.wav */,
 				1080912B2D2DAFD10084A7E8 /* MUSIC_TURN_OFF_PC.wav */,
 				1080912C2D2DAFD10084A7E8 /* SFX_TURN_ON_PC.wav */,
-				1080912D2D2DAFD10084A7E8 /* SFX_WITHDRAW_DEPOSIT.wav */,
 				1080919F2D2DB4B20084A7E8 /* MUSIC_VICTORY.wav */,
 				108091A12D2DB5890084A7E8 /* MUSIC_PROF_OAK.wav */,
 				108091A72D2DB9C30084A7E8 /* MUSIC_BATTLE.wav */,
@@ -774,123 +504,33 @@
 			buildActionMask = 2147483647;
 			files = (
 				900FD61527DEA9E6006F9C3C /* GoogleService-Info.plist in Resources */,
-				1080912E2D2DAFD10084A7E8 /* SFX_CRY_1A.wav in Resources */,
-				1080912F2D2DAFD10084A7E8 /* SFX_CRY_1E.wav in Resources */,
-				108091302D2DAFD10084A7E8 /* SFX_SLOTS_NEW_SPIN.wav in Resources */,
 				108091A82D2DB9C30084A7E8 /* MUSIC_BATTLE.wav in Resources */,
-				108091A42D2DB9AE0084A7E8 /* .wav in Resources */,
 				108091312D2DAFD10084A7E8 /* SFX_COLLISION.wav in Resources */,
-				108091322D2DAFD10084A7E8 /* SFX_SLOTS_STOP_WHEEL.wav in Resources */,
 				108091332D2DAFD10084A7E8 /* SFX_CRY_25.wav in Resources */,
-				108091342D2DAFD10084A7E8 /* SFX_ARROW_TILES.wav in Resources */,
 				108091A22D2DB5890084A7E8 /* MUSIC_PROF_OAK.wav in Resources */,
 				108091352D2DAFD10084A7E8 /* SFX_SAVE.wav in Resources */,
 				108091362D2DAFD10084A7E8 /* SFX_GET_ITEM_1.wav in Resources */,
-				108091372D2DAFD10084A7E8 /* SFX_HEAL_UP.wav in Resources */,
-				108091382D2DAFD10084A7E8 /* SFX_INTRO_CRASH.wav in Resources */,
-				108091392D2DAFD10084A7E8 /* SFX_CRY_24.wav in Resources */,
-				1080913A2D2DAFD10084A7E8 /* SFX_CRY_16.wav in Resources */,
-				1080913B2D2DAFD10084A7E8 /* SFX_CRY_1F.wav in Resources */,
-				1080913C2D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_1.wav in Resources */,
-				1080913D2D2DAFD10084A7E8 /* SFX_SNARE_4.wav in Resources */,
-				1080913E2D2DAFD10084A7E8 /* SFX_CRY_1B.wav in Resources */,
-				1080913F2D2DAFD10084A7E8 /* SFX_CRY_03.wav in Resources */,
 				108091402D2DAFD10084A7E8 /* SFX_START_MENU.wav in Resources */,
 				108091412D2DAFD10084A7E8 /* SFX_INTRO_HIP.wav in Resources */,
-				108091422D2DAFD10084A7E8 /* SFX_CRY_11.wav in Resources */,
-				108091432D2DAFD10084A7E8 /* SFX_SNARE_8.wav in Resources */,
-				108091442D2DAFD10084A7E8 /* SFX_SNARE_9.wav in Resources */,
-				108091452D2DAFD10084A7E8 /* SFX_CRY_20.wav in Resources */,
 				108091462D2DAFD10084A7E8 /* SFX_CRY_0A.wav in Resources */,
-				108091472D2DAFD10084A7E8 /* SFX_MUTED_SNARE_2.wav in Resources */,
-				108091482D2DAFD10084A7E8 /* SFX_BALL_POOF.wav in Resources */,
-				108091492D2DAFD10084A7E8 /* SFX_TRADE_MACHINE.wav in Resources */,
-				1080914A2D2DAFD10084A7E8 /* SFX_CRY_0E.wav in Resources */,
-				1080914B2D2DAFD10084A7E8 /* SFX_POISONED.wav in Resources */,
 				1080914C2D2DAFD10084A7E8 /* SFX_CRY_0C.wav in Resources */,
 				1080914D2D2DAFD10084A7E8 /* SFX_POKEDEX_RATING.wav in Resources */,
-				1080914E2D2DAFD10084A7E8 /* SFX_CYMBAL_3.wav in Resources */,
-				1080914F2D2DAFD10084A7E8 /* SFX_SS_ANNE_HORN.wav in Resources */,
-				108091502D2DAFD10084A7E8 /* SFX_CRY_0D.wav in Resources */,
 				108091A02D2DB4B20084A7E8 /* MUSIC_VICTORY.wav in Resources */,
-				108091512D2DAFD10084A7E8 /* SFX_CRY_10.wav in Resources */,
 				108091522D2DAFD10084A7E8 /* SFX_GET_ITEM_2.wav in Resources */,
-				108091532D2DAFD10084A7E8 /* SFX_CRY_00.wav in Resources */,
-				108091542D2DAFD10084A7E8 /* SFX_MUTED_SNARE_3.wav in Resources */,
-				108091552D2DAFD10084A7E8 /* SFX_CRY_1D.wav in Resources */,
-				108091562D2DAFD10084A7E8 /* SFX_CRY_09.wav in Resources */,
-				108091572D2DAFD10084A7E8 /* SFX_GO_OUTSIDE.wav in Resources */,
-				108091582D2DAFD10084A7E8 /* SFX_CRY_23.wav in Resources */,
 				108091592D2DAFD10084A7E8 /* SFX_FAINT_FALL.wav in Resources */,
-				1080915A2D2DAFD10084A7E8 /* SFX_DEX_PAGE_ADDED.wav in Resources */,
-				1080915B2D2DAFD10084A7E8 /* SFX_CRY_02.wav in Resources */,
-				1080915C2D2DAFD10084A7E8 /* SFX_SNARE_5.wav in Resources */,
-				1080915D2D2DAFD10084A7E8 /* SFX_SNARE_7.wav in Resources */,
-				1080915E2D2DAFD10084A7E8 /* SFX_WITHDRAW_DEPOSIT.wav in Resources */,
-				1080915F2D2DAFD10084A7E8 /* SFX_CYMBAL_2.wav in Resources */,
 				108091602D2DAFD10084A7E8 /* SFX_CRY_01.wav in Resources */,
-				108091612D2DAFD10084A7E8 /* SFX_SWITCH.wav in Resources */,
-				108091622D2DAFD10084A7E8 /* SFX_TRIANGLE_3.wav in Resources */,
-				108091632D2DAFD10084A7E8 /* SFX_CRY_04.wav in Resources */,
 				108091642D2DAFD10084A7E8 /* MUSIC_CAUGHT_MON.wav in Resources */,
-				108091652D2DAFD10084A7E8 /* SFX_SNARE_2.wav in Resources */,
-				108091662D2DAFD10084A7E8 /* SFX_CRY_13.wav in Resources */,
-				108091672D2DAFD10084A7E8 /* SFX_CRY_22.wav in Resources */,
-				108091682D2DAFD10084A7E8 /* SFX_LEDGE.wav in Resources */,
-				108091692D2DAFD10084A7E8 /* SFX_SNARE_6.wav in Resources */,
-				1080916A2D2DAFD10084A7E8 /* SFX_CRY_14.wav in Resources */,
-				1080916B2D2DAFD10084A7E8 /* SFX_DENIED.wav in Resources */,
-				1080916C2D2DAFD10084A7E8 /* SFX_CUT.wav in Resources */,
-				1080916D2D2DAFD10084A7E8 /* SFX_GO_INSIDE.wav in Resources */,
-				1080916E2D2DAFD10084A7E8 /* SFX_CRY_0F.wav in Resources */,
 				1080916F2D2DAFD10084A7E8 /* SFX_SHOOTING_STAR.wav in Resources */,
 				108091702D2DAFD10084A7E8 /* SFX_59.wav in Resources */,
-				108091712D2DAFD10084A7E8 /* SFX_SWAP.wav in Resources */,
-				108091722D2DAFD10084A7E8 /* SFX_CRY_19.wav in Resources */,
-				108091732D2DAFD10084A7E8 /* SFX_CRY_06.wav in Resources */,
-				108091742D2DAFD10084A7E8 /* SFX_CRY_05.wav in Resources */,
-				108091752D2DAFD10084A7E8 /* SFX_CRY_18.wav in Resources */,
-				108091762D2DAFD10084A7E8 /* SFX_MUTED_SNARE_4.wav in Resources */,
-				108091772D2DAFD10084A7E8 /* SFX_TRIANGLE_1.wav in Resources */,
-				108091782D2DAFD10084A7E8 /* SFX_TRIANGLE_2.wav in Resources */,
-				108091792D2DAFD10084A7E8 /* SFX_SNARE_3.wav in Resources */,
-				1080917A2D2DAFD10084A7E8 /* SFX_SILPH_SCOPE.wav in Resources */,
-				1080917B2D2DAFD10084A7E8 /* SFX_TINK.wav in Resources */,
-				1080917C2D2DAFD10084A7E8 /* SFX_CRY_15.wav in Resources */,
-				1080917D2D2DAFD10084A7E8 /* SFX_CYMBAL_1.wav in Resources */,
-				1080917E2D2DAFD10084A7E8 /* SFX_HEALING_MACHINE.wav in Resources */,
-				1080917F2D2DAFD10084A7E8 /* SFX_TELEPORT_EXIT_2.wav in Resources */,
-				108091802D2DAFD10084A7E8 /* SFX_MUTED_SNARE_1.wav in Resources */,
-				108091812D2DAFD10084A7E8 /* SFX_CRY_08.wav in Resources */,
 				108091822D2DAFD10084A7E8 /* SFX_PRESS_AB.wav in Resources */,
 				108091832D2DAFD10084A7E8 /* SFX_TURN_ON_PC.wav in Resources */,
-				108091842D2DAFD10084A7E8 /* SFX_SLOTS_REWARD.wav in Resources */,
-				108091852D2DAFD10084A7E8 /* SFX_PUSH_BOULDER.wav in Resources */,
-				108091862D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_1.wav in Resources */,
-				108091872D2DAFD10084A7E8 /* SFX_ENTER_PC.wav in Resources */,
-				108091882D2DAFD10084A7E8 /* SFX_INTRO_LUNGE.wav in Resources */,
 				108091892D2DAFD10084A7E8 /* SFX_SHRINK.wav in Resources */,
-				1080918A2D2DAFD10084A7E8 /* SFX_CRY_07.wav in Resources */,
-				1080918B2D2DAFD10084A7E8 /* SFX_CRY_1C.wav in Resources */,
 				1080918C2D2DAFD10084A7E8 /* SFX_PURCHASE.wav in Resources */,
-				1080918D2D2DAFD10084A7E8 /* SFX_HEAL_AILMENT.wav in Resources */,
-				1080918E2D2DAFD10084A7E8 /* SFX_CRY_17.wav in Resources */,
-				1080918F2D2DAFD10084A7E8 /* SFX_CRY_12.wav in Resources */,
-				108091902D2DAFD10084A7E8 /* SFX_TELEPORT_ENTER_2.wav in Resources */,
-				108091912D2DAFD10084A7E8 /* SFX_CRY_21.wav in Resources */,
-				108091922D2DAFD10084A7E8 /* SFX_RUN.wav in Resources */,
-				108091932D2DAFD10084A7E8 /* SFX_SAFARI_ZONE_PA.wav in Resources */,
 				108091942D2DAFD10084A7E8 /* SFX_FLY.wav in Resources */,
-				108091952D2DAFD10084A7E8 /* SFX_INTRO_WHOOSH.wav in Resources */,
-				108091A62D2DB9B30084A7E8 /* File.txt in Resources */,
 				108091962D2DAFD10084A7E8 /* SFX_LEVEL_UP.wav in Resources */,
-				108091972D2DAFD10084A7E8 /* SFX_INTRO_HOP.wav in Resources */,
 				108091982D2DAFD10084A7E8 /* MUSIC_TURN_OFF_PC.wav in Resources */,
 				108091992D2DAFD10084A7E8 /* SFX_FAINT_THUD.wav in Resources */,
 				1080919A2D2DAFD10084A7E8 /* SFX_CRY_0B.wav in Resources */,
-				1080919B2D2DAFD10084A7E8 /* SFX_INTRO_RAISE.wav in Resources */,
-				1080919C2D2DAFD10084A7E8 /* SFX_SNARE_1.wav in Resources */,
-				1080919D2D2DAFD10084A7E8 /* SFX_BALL_TOSS.wav in Resources */,
 				1080919E2D2DAFD10084A7E8 /* MUSIC_GET_KEY_ITEM.wav in Resources */,
 				90FDF31B27DC252200F627BE /* PKMN_RBYGSC.ttf in Resources */,
 				9020A1BF27DC088100DEBD79 /* Preview Assets.xcassets in Resources */,
